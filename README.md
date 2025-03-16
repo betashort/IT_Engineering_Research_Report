@@ -6,9 +6,9 @@
 
 ## ネットワーク
 
-## ソフトウェア品質
+## [**ソフトウェア品質**](./SoftwareQuality/README.md)
 
-## ソフトウェアテスト
+## [**ソフトウェアテスト**](./SoftwareTest/README.md)
 
 ## プログラミング
 
